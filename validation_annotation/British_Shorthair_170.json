@@ -1,0 +1,1 @@
+{"file": "British_Shorthair_170.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 342, "depth": 3}], "annotations": [{"class_id": 0, "left": 131, "top": 30, "width": 262, "height": 234}]}

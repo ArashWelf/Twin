@@ -1,0 +1,1 @@
+{"file": "Ragdoll_10.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 375, "depth": 3}], "annotations": [{"class_id": 0, "left": 227, "top": 46, "width": 136, "height": 148}]}

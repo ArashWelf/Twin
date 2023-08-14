@@ -1,0 +1,1 @@
+{"file": "Persian_126.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 450, "depth": 3}], "annotations": [{"class_id": 0, "left": 260, "top": 60, "width": 115, "height": 83}]}

@@ -1,0 +1,1 @@
+{"file": "Russian_Blue_164.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 333, "depth": 3}], "annotations": [{"class_id": 0, "left": 97, "top": 60, "width": 183, "height": 174}]}

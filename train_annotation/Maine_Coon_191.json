@@ -1,0 +1,1 @@
+{"file": "Maine_Coon_191.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 493, "height": 500, "depth": 3}], "annotations": [{"class_id": 0, "left": 140, "top": 81, "width": 237, "height": 249}]}

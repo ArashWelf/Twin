@@ -1,0 +1,1 @@
+{"file": "leonberger_163.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 333, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 10, "top": 107, "width": 270, "height": 296}]}

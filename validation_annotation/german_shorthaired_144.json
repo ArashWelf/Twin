@@ -1,0 +1,1 @@
+{"file": "german_shorthaired_144.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 354, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 110, "top": 66, "width": 136, "height": 136}]}

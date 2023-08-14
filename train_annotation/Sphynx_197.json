@@ -1,0 +1,1 @@
+{"file": "Sphynx_197.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 498, "height": 500, "depth": 3}], "annotations": [{"class_id": 0, "left": 299, "top": 79, "width": 124, "height": 132}]}

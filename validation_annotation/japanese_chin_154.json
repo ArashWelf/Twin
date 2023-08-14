@@ -1,0 +1,1 @@
+{"file": "japanese_chin_154.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 375, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 130, "top": 80, "width": 164, "height": 183}]}

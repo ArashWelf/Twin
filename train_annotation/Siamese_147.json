@@ -1,0 +1,1 @@
+{"file": "Siamese_147.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 374, "depth": 3}], "annotations": [{"class_id": 0, "left": 134, "top": 34, "width": 191, "height": 201}]}

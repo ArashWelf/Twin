@@ -1,0 +1,1 @@
+{"file": "miniature_pinscher_112.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 375, "depth": 3}], "annotations": [{"class_id": 1, "left": 203, "top": 84, "width": 71, "height": 90}]}

@@ -1,0 +1,1 @@
+{"file": "beagle_126.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 352, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 37, "top": 114, "width": 289, "height": 256}]}

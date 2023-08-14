@@ -1,0 +1,1 @@
+{"file": "english_cocker_spaniel_152.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 368, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 160, "top": 161, "width": 159, "height": 226}]}

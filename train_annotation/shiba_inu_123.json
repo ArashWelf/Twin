@@ -1,0 +1,1 @@
+{"file": "shiba_inu_123.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 221, "height": 306, "depth": 3}], "annotations": [{"class_id": 1, "left": 28, "top": 31, "width": 74, "height": 84}]}

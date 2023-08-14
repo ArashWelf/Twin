@@ -1,0 +1,1 @@
+{"file": "Bengal_184.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 398, "height": 306, "depth": 3}], "annotations": [{"class_id": 0, "left": 238, "top": 84, "width": 64, "height": 67}]}

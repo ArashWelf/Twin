@@ -1,0 +1,1 @@
+{"file": "english_setter_10.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 375, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 89, "top": 52, "width": 181, "height": 163}]}

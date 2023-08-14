@@ -1,0 +1,1 @@
+{"file": "newfoundland_126.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 443, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 227, "top": 52, "width": 153, "height": 165}]}

@@ -1,0 +1,1 @@
+{"file": "saint_bernard_16.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 375, "depth": 3}], "annotations": [{"class_id": 1, "left": 109, "top": 198, "width": 88, "height": 73}]}

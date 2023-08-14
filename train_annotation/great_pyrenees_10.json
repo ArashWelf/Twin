@@ -1,0 +1,1 @@
+{"file": "great_pyrenees_10.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 415, "height": 480, "depth": 3}], "annotations": [{"class_id": 1, "left": 183, "top": 239, "width": 102, "height": 84}]}

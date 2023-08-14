@@ -1,0 +1,1 @@
+{"file": "pomeranian_178.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 208, "height": 269, "depth": 3}], "annotations": [{"class_id": 1, "left": 66, "top": 33, "width": 97, "height": 110}]}

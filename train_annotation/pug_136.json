@@ -1,0 +1,1 @@
+{"file": "pug_136.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 300, "height": 210, "depth": 3}], "annotations": [{"class_id": 1, "left": 83, "top": 9, "width": 124, "height": 118}]}

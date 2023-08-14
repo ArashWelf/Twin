@@ -1,0 +1,1 @@
+{"file": "Egyptian_Mau_165.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 2560, "height": 1920, "depth": 3}], "annotations": [{"class_id": 0, "left": 1715, "top": 340, "width": 840, "height": 970}]}

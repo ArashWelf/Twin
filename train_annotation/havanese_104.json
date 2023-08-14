@@ -1,0 +1,1 @@
+{"file": "havanese_104.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 416, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 156, "top": 119, "width": 171, "height": 134}]}

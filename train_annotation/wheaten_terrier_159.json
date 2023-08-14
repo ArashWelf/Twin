@@ -1,0 +1,1 @@
+{"file": "wheaten_terrier_159.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 375, "depth": 3}], "annotations": [{"class_id": 1, "left": 104, "top": 62, "width": 137, "height": 119}]}

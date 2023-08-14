@@ -1,0 +1,1 @@
+{"file": "scottish_terrier_163.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 363, "depth": 3}], "annotations": [{"class_id": 1, "left": 301, "top": 68, "width": 123, "height": 187}]}

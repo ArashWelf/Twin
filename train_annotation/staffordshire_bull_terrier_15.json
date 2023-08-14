@@ -1,0 +1,1 @@
+{"file": "staffordshire_bull_terrier_15.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 469, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 122, "top": 155, "width": 201, "height": 274}]}

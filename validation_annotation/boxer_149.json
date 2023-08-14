@@ -1,0 +1,1 @@
+{"file": "boxer_149.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 375, "depth": 3}], "annotations": [{"class_id": 1, "left": 176, "top": 107, "width": 100, "height": 134}]}

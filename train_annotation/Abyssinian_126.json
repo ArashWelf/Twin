@@ -1,0 +1,1 @@
+{"file": "Abyssinian_126.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 423, "depth": 3}], "annotations": [{"class_id": 0, "left": 88, "top": 87, "width": 116, "height": 95}]}

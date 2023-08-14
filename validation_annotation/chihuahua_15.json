@@ -1,0 +1,1 @@
+{"file": "chihuahua_15.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 372, "height": 500, "depth": 3}], "annotations": [{"class_id": 1, "left": 115, "top": 106, "width": 226, "height": 149}]}

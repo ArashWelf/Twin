@@ -1,0 +1,1 @@
+{"file": "american_pit_bull_terrier_173.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 300, "height": 225, "depth": 3}], "annotations": [{"class_id": 1, "left": 89, "top": 50, "width": 116, "height": 87}]}

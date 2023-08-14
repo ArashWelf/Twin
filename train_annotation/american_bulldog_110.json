@@ -1,0 +1,1 @@
+{"file": "american_bulldog_110.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 500, "height": 441, "depth": 3}], "annotations": [{"class_id": 1, "left": 224, "top": 91, "width": 137, "height": 162}]}

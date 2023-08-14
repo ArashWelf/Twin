@@ -1,0 +1,1 @@
+{"file": "Bombay_110.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 750, "height": 1125, "depth": 3}], "annotations": [{"class_id": 0, "left": 384, "top": 230, "width": 226, "height": 240}]}

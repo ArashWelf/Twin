@@ -1,0 +1,1 @@
+{"file": "Birman_164.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 352, "height": 319, "depth": 3}], "annotations": [{"class_id": 0, "left": 45, "top": 10, "width": 270, "height": 299}]}

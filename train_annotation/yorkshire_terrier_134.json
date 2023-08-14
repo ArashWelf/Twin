@@ -1,0 +1,1 @@
+{"file": "yorkshire_terrier_134.jpg", "categories": [{"class_id": 0, "name": "cat"}, {"class_id": 1, "name": "dog"}], "image_size": [{"width": 300, "height": 224, "depth": 3}], "annotations": [{"class_id": 1, "left": 84, "top": 45, "width": 115, "height": 99}]}
